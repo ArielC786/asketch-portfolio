@@ -1,4 +1,4 @@
-# Asketch Portfolio
+# WhitePencil
 
 A one-page portfolio website for Ariel Casia, featuring a dark neon theme, gallery with lightbox, and contact form.
 
